@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalculatorSample</string>
+    <string name="calculate">Calculate</string>
+    <string name="hint_first_number">First number</string>
+    <string name="hint_second_number">Second number</string>
+    <string name="addition_friendly_name">+</string>
+    <string name="subtraction_friendly_name">+</string>
+    <string name="multiplication_friendly_name">+</string>
+    <string name="division_friendly_name">+</string>
+    <string name="result_string">Result: %1$.2f</string>
+    <string name="error_cannot_divide_by_zero">Cannot divide by zero, please try again with other numbers.</string>
+    <string name="error_generic">Cannot execute the operation right now. Please try again later.</string>
+    <string name="error_empty_field">The %1$s number cannot be empty</string>
+    <string name="error_invalid_field">The %1$s number has an invalid value</string>
+</resources>
